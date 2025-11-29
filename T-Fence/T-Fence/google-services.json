@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377385655311",
+    "project_id": "t-fence",
+    "storage_bucket": "t-fence.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377385655311:android:8461d1eeb50c08f628177a",
+        "android_client_info": {
+          "package_name": "com.vinicius06.TFence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-E33ugbgQ2Akx3Cgj8Ay53fiWStC7rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
